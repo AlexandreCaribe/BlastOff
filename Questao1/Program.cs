@@ -27,13 +27,7 @@ namespace Media
 
 
        Console.WriteLine("A média das idades é: " + media);
-       /*Console.WriteLine($"Média de idade é : {(media.ToString("0.0"))}");
-       
-       Console.WriteLine($"{media:0.00}");
-       Console.WriteLine(media.ToString("F2"));
-    */
        
      }
    }
 }
-

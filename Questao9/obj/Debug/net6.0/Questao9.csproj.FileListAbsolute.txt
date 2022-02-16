@@ -1,0 +1,15 @@
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\bin\Debug\net6.0\Questao9.exe
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\bin\Debug\net6.0\Questao9.deps.json
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\bin\Debug\net6.0\Questao9.runtimeconfig.json
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\bin\Debug\net6.0\Questao9.dll
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\bin\Debug\net6.0\Questao9.pdb
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.csproj.AssemblyReference.cache
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.dll
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\refint\Questao9.dll
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.pdb
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\Questao9.genruntimeconfig.cache
+C:\Users\Alexandre\Desktop\BlastOff\Questao9\obj\Debug\net6.0\ref\Questao9.dll

@@ -5,7 +5,7 @@ namespace Conversao
    {
      public static void Main(string[] args)
      {
-       float c, f;
+        float c, f;
         Console.WriteLine("Digite o valor da temperatura em graus Celsius: ");
         c = float.Parse(Console.ReadLine());
 
